@@ -1,2 +1,2 @@
-# genre-classif
-Genre Classification performed on GTZAN dataset.
+# Musical Genre Classification
+Genre Classification performed using the GTZAN dataset.

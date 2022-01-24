@@ -12,8 +12,8 @@
 #
 # Note that you have to edit this file to select whether you
 # want to install the CPU or GPU version of TensorFlow.
-# Sometimes it auto-detects if you have a gpu and saves 
-# installs the right tensorflow version
+# Sometimes it auto-detects if you have a gpu and installs 
+# the right tensorflow version, but we never know...
 #
 #
 ################################################################

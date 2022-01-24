@@ -1,0 +1,45 @@
+################################################################
+#
+# Python package requirementsGenre classification assignment:
+# https://github.com/epidemicsound/ml-team-homework-assignment-carloz-lordelo
+#
+# If you are using Anaconda then you can install all required
+# Python packages by running the following commands in a shell:
+#
+#     conda create --name genre-classif-env pip
+#     conda activate genre-classif-env
+#     pip install -r requirements.txt
+#
+# Note that you have to edit this file to select whether you
+# want to install the CPU or GPU version of TensorFlow.
+# Sometimes it auto-detects if you have a gpu and saves 
+# installs the right tensorflow version
+#
+#
+################################################################
+# Machine Learning Packages
+
+scikit-learn
+tensorflow>=2.0.0
+
+################################################################
+# Audio processing Packages
+
+librosa
+
+################################################################
+# Basic packages.
+
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+
+################################################################
+# Jupyter Notebook related stuff for creating progress bars and
+# use your new created environment kernel on jupyter
+
+ipykernel
+tqdm
+ipywidgets
